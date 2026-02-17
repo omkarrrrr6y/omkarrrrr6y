@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi  👋 i am omkar mane
 
 <!--
 **omkarrrrr6y/omkarrrrr6y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
