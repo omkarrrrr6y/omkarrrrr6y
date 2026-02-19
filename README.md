@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Omkar mane</h1>
 
-- 🔭 I’m currently working on Flutter
+- 🔭 I’m currently working on nodejs
 - 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter 
+- 💬 Ask me anything about nodejs and expressjs 
 - 📫 How to reach me: maneomkar659@gmail.com
 - 😄 My website: https://
 - ⚡ Fun fact: I'm comming to teen
