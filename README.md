@@ -32,7 +32,9 @@
 
 **Frontend:**
 ![JavaScript]
-    <img src="https://raw.githubusercontent.com" alt="javascript" width="40" height="40"/">
+    <a href="">
+    <img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
 ![React](https://img.shields.io)
 ![TailwindCSS](https://img.shields.io)
 
