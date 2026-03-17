@@ -31,8 +31,32 @@
 ### 🛠 Tech Stack
 
 **Frontend:**
-![JavaScript]
+
     <a href="">
     <img src="https://img.shields.io/badge/Javascript-silver?style=for-the-badge&logo=twitter&logoColor=black"/>
   </a>
+
+ <a href="">
+    <img src="https://img.shields.io/badge/React-silver?style=for-the-badge&logo=twitter&logoColor=black"/>
+  </a>
+  
+
+ <a href="">
+    <img src="https://img.shields.io/badge/Tailwindcss-silver?style=for-the-badge&logo=twitter&logoColor=black"/>
+  </a>
+
+**Backend:**
+
+ <a href="">
+    <img src="https://img.shields.io/badge/Nodejs-silver?style=for-the-badge&logo=twitter&logoColor=black"/>
+  </a>
+
+ <a href="">
+    <img src="https://img.shields.io/badge/Expressjs-silver?style=for-the-badge&logo=twitter&logoColor=black"/>
+  </a>
+
+ <a href="">
+    <img src="https://img.shields.io/badge/MongoDB-silver?style=for-the-badge&logo=twitter&logoColor=black"/>
+  </a>
+
 
