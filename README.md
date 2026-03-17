@@ -31,7 +31,8 @@
 ### 🛠 Tech Stack
 
 **Frontend:**
-![JavaScript](https://raw.githubusercontent.com" alt="javascript" width="40" height="40"/)
+![JavaScript]
+    <img src="https://raw.githubusercontent.com" alt="javascript" width="40" height="40"/">
 ![React](https://img.shields.io)
 ![TailwindCSS](https://img.shields.io)
 
