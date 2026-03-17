@@ -35,27 +35,4 @@
     <a href="">
     <img src="(https://img.shields.io/badge/Javascript-silver?style=for-the-badge&logo=twitter&logoColor=black)"/>
   </a>
-![React]
- <a href="">
-    <img src="(https://img.shields.io/badge/React-silver?style=for-the-badge&logo=twitter&logoColor=black)"/>
-  </a>
-  
-![TailwindCSS]
- <a href="">
-    <img src="(https://img.shields.io/badge/Tailwindcss-silver?style=for-the-badge&logo=twitter&logoColor=black)"/>
-  </a>
-
-**Backend:**
-![NodeJS]
- <a href="">
-    <img src="(https://img.shields.io/badge/Nodejs-silver?style=for-the-badge&logo=twitter&logoColor=black)"/>
-  </a>
-![Express.js]
- <a href="">
-    <img src="(https://img.shields.io/badge/Expressjs-silver?style=for-the-badge&logo=twitter&logoColor=black)"/>
-  </a>
-![MongoDB]
- <a href="">
-    <img src="(https://img.shields.io/badge/MongoDB-silver?style=for-the-badge&logo=twitter&logoColor=black)"/>
-  </a>
 
