@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
    <a href="https://www.linkedin.com/in/omkarmane-jsf">
-    <img src=https://img.shields.io/badge/Linkdin-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linkdin-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
    <a href="https://www.linkedin.com/in/omkarmane-jsf](https://www.naukri.com/mnjuser/profile">
     <img src="https://img.shields.io/badge/Naukri-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
