@@ -9,13 +9,13 @@
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/omkarrrrr6y">
-    <img src="https://static.vecteezy.com/system/resources/previews/016/833/880/non_2x/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg"/>
+    <img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
    <a href="https://www.linkedin.com/in/omkarmane-jsf">
-    <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFhrhJEQ383QCvlpQSf660zZnDpxchlHDyLA&s"/>
+    <img src=https://img.shields.io/badge/Linkdin-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-   <a href="https://twitter.com/axiftaj">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+   <a href="https://www.linkedin.com/in/omkarmane-jsf](https://www.naukri.com/mnjuser/profile">
+    <img src="https://img.shields.io/badge/Naukri-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </div>
 
