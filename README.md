@@ -19,20 +19,13 @@
   </a>
 </div>
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
-
-
-<br>
 
 ### 🛠 Tech Stack
 
 **Frontend:**
 
-    <a href="">
+  <a href="">
     <img src="https://img.shields.io/badge/Javascript-silver?style=for-the-badge&logo=twitter&logoColor=black"/>
   </a>
 
