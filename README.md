@@ -33,6 +33,6 @@
 **Frontend:**
 ![JavaScript]
     <a href="">
-    <img src="(https://img.shields.io/badge/Javascript-silver?style=for-the-badge&logo=twitter&logoColor=black)"/>
+    <img src="https://img.shields.io/badge/Javascript-silver?style=for-the-badge&logo=twitter&logoColor=black"/>
   </a>
 
