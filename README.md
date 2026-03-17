@@ -27,3 +27,16 @@
 
 
 <br>
+
+### 🛠 Tech Stack
+
+**Frontend:**  
+![JavaScript](https://img.shields.io)
+![React](https://img.shields.io)
+![TailwindCSS](https://img.shields.io)
+
+**Backend:**  
+![NodeJS](https://img.shields.io)
+![Express.js](https://img.shields.io)
+![MongoDB](https://img.shields.io)
+
